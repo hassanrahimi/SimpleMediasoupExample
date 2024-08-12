@@ -1,6 +1,6 @@
 Hi
 
-this is simple mediasoup example. neet to be complete example 
+this is simple mediasoup example with node js as backend and react js as frontend in typescript. neet to be complete example 
 
 in server side : npm install -force
 
