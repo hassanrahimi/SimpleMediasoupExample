@@ -19,7 +19,7 @@ work on localhost and cloud server
 for cloud server must edit mediasoup.config.ts at server side and active upd and tcp both
 
 
-for usage : image clinet side opon on port 3001.
+for usage : imagin clinet side opon on port 3001.
 
 please open two page in chrome
 
