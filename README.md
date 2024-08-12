@@ -3,16 +3,21 @@ Hi
 this is simple mediasoup example. neet to be complete example 
 
 in server side : npm install -force
+
 for start : npm run dev
 
 in client side : npm install -force
+
 for start : npm start
 
 Note: first start server then client
 
+
 work on localhost and cloud server
 
+
 for cloud server must edit mediasoup.config.ts at server side and active upd and tcp both
+
 
 for usage : image clinet side opon on port 3001.
 
